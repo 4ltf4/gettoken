@@ -8,8 +8,8 @@ _banner_ = '''
 += No Spam Dettect Server Facebook =+
 +=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
 
-# author : thePriVat
-# contact: theprivat@khoirulrisqi.com
+# author : 4ltf4
+# contact: izzuddinanshori8@gmail.com
 '''
 user=raw_input('username/email: ')
 passw=raw_input('password: ')
